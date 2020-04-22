@@ -4,3 +4,9 @@ C:\Users\Nastya\Info2020\Runge-Kutta_MethodV2\Runge-Kutta_MethodV2\obj\Debug\Run
 C:\Users\Nastya\Info2020\Runge-Kutta_MethodV2\Runge-Kutta_MethodV2\obj\Debug\Runge-Kutta_MethodV2.csproj.CoreCompileInputs.cache
 C:\Users\Nastya\Info2020\Runge-Kutta_MethodV2\Runge-Kutta_MethodV2\obj\Debug\Runge_Kutta_MethodV2.exe
 C:\Users\Nastya\Info2020\Runge-Kutta_MethodV2\Runge-Kutta_MethodV2\obj\Debug\Runge_Kutta_MethodV2.pdb
+C:\Users\Nastya\Info2020\Runge-Kutta_MethodV2\Runge-Kutta_MethodV2\Runge-Kutta_MethodV2\bin\Debug\Runge_Kutta_MethodV2.exe
+C:\Users\Nastya\Info2020\Runge-Kutta_MethodV2\Runge-Kutta_MethodV2\Runge-Kutta_MethodV2\bin\Debug\Runge_Kutta_MethodV2.pdb
+C:\Users\Nastya\Info2020\Runge-Kutta_MethodV2\Runge-Kutta_MethodV2\Runge-Kutta_MethodV2\obj\Debug\Runge-Kutta_MethodV2.csprojAssemblyReference.cache
+C:\Users\Nastya\Info2020\Runge-Kutta_MethodV2\Runge-Kutta_MethodV2\Runge-Kutta_MethodV2\obj\Debug\Runge-Kutta_MethodV2.csproj.CoreCompileInputs.cache
+C:\Users\Nastya\Info2020\Runge-Kutta_MethodV2\Runge-Kutta_MethodV2\Runge-Kutta_MethodV2\obj\Debug\Runge_Kutta_MethodV2.exe
+C:\Users\Nastya\Info2020\Runge-Kutta_MethodV2\Runge-Kutta_MethodV2\Runge-Kutta_MethodV2\obj\Debug\Runge_Kutta_MethodV2.pdb
