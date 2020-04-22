@@ -1,0 +1,6 @@
+C:\Users\Nastya\Info2020\DifferentialEquationsSolution\DifferentialEquationsSolution\bin\Debug\DifferentialEquationsSolution.exe
+C:\Users\Nastya\Info2020\DifferentialEquationsSolution\DifferentialEquationsSolution\bin\Debug\DifferentialEquationsSolution.pdb
+C:\Users\Nastya\Info2020\DifferentialEquationsSolution\DifferentialEquationsSolution\obj\Debug\DifferentialEquationsSolution.csprojAssemblyReference.cache
+C:\Users\Nastya\Info2020\DifferentialEquationsSolution\DifferentialEquationsSolution\obj\Debug\DifferentialEquationsSolution.csproj.CoreCompileInputs.cache
+C:\Users\Nastya\Info2020\DifferentialEquationsSolution\DifferentialEquationsSolution\obj\Debug\DifferentialEquationsSolution.exe
+C:\Users\Nastya\Info2020\DifferentialEquationsSolution\DifferentialEquationsSolution\obj\Debug\DifferentialEquationsSolution.pdb

@@ -1,0 +1,7 @@
+C:\Users\Nastya\Info2020\Matrix\Matrix\bin\Debug\Matrix.exe.config
+C:\Users\Nastya\Info2020\Matrix\Matrix\bin\Debug\Matrix.exe
+C:\Users\Nastya\Info2020\Matrix\Matrix\bin\Debug\Matrix.pdb
+C:\Users\Nastya\Info2020\Matrix\Matrix\obj\Debug\Matrix.csprojAssemblyReference.cache
+C:\Users\Nastya\Info2020\Matrix\Matrix\obj\Debug\Matrix.csproj.CoreCompileInputs.cache
+C:\Users\Nastya\Info2020\Matrix\Matrix\obj\Debug\Matrix.exe
+C:\Users\Nastya\Info2020\Matrix\Matrix\obj\Debug\Matrix.pdb

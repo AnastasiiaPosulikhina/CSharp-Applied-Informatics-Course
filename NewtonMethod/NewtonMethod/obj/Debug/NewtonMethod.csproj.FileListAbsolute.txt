@@ -1,0 +1,7 @@
+C:\Users\Nastya\Info2020\NewtonMethod\NewtonMethod\bin\Debug\NewtonMethod.exe.config
+C:\Users\Nastya\Info2020\NewtonMethod\NewtonMethod\bin\Debug\NewtonMethod.exe
+C:\Users\Nastya\Info2020\NewtonMethod\NewtonMethod\bin\Debug\NewtonMethod.pdb
+C:\Users\Nastya\Info2020\NewtonMethod\NewtonMethod\obj\Debug\NewtonMethod.csprojAssemblyReference.cache
+C:\Users\Nastya\Info2020\NewtonMethod\NewtonMethod\obj\Debug\NewtonMethod.csproj.CoreCompileInputs.cache
+C:\Users\Nastya\Info2020\NewtonMethod\NewtonMethod\obj\Debug\NewtonMethod.exe
+C:\Users\Nastya\Info2020\NewtonMethod\NewtonMethod\obj\Debug\NewtonMethod.pdb

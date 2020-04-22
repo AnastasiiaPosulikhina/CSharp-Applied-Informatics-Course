@@ -1,0 +1,7 @@
+C:\Users\Nastya\Info2020\MonteCarlo\MonteCarlo\bin\Debug\MonteCarlo.exe.config
+C:\Users\Nastya\Info2020\MonteCarlo\MonteCarlo\bin\Debug\MonteCarlo.exe
+C:\Users\Nastya\Info2020\MonteCarlo\MonteCarlo\bin\Debug\MonteCarlo.pdb
+C:\Users\Nastya\Info2020\MonteCarlo\MonteCarlo\obj\Debug\MonteCarlo.csprojAssemblyReference.cache
+C:\Users\Nastya\Info2020\MonteCarlo\MonteCarlo\obj\Debug\MonteCarlo.csproj.CoreCompileInputs.cache
+C:\Users\Nastya\Info2020\MonteCarlo\MonteCarlo\obj\Debug\MonteCarlo.exe
+C:\Users\Nastya\Info2020\MonteCarlo\MonteCarlo\obj\Debug\MonteCarlo.pdb
