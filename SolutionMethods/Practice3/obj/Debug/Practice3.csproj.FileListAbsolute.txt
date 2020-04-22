@@ -1,0 +1,14 @@
+C:\Users\Nastya\AlgorithmsAndDataStructure\Practice3\Practice3\bin\Debug\Practice3.exe.config
+C:\Users\Nastya\AlgorithmsAndDataStructure\Practice3\Practice3\bin\Debug\Practice3.exe
+C:\Users\Nastya\AlgorithmsAndDataStructure\Practice3\Practice3\bin\Debug\Practice3.pdb
+C:\Users\Nastya\AlgorithmsAndDataStructure\Practice3\Practice3\obj\Debug\Practice3.csprojAssemblyReference.cache
+C:\Users\Nastya\AlgorithmsAndDataStructure\Practice3\Practice3\obj\Debug\Practice3.csproj.CoreCompileInputs.cache
+C:\Users\Nastya\AlgorithmsAndDataStructure\Practice3\Practice3\obj\Debug\Practice3.exe
+C:\Users\Nastya\AlgorithmsAndDataStructure\Practice3\Practice3\obj\Debug\Practice3.pdb
+C:\Users\Nastya\AlgorithmsAndDataStructure\Practice4\Practice3\bin\Debug\Practice3.exe.config
+C:\Users\Nastya\AlgorithmsAndDataStructure\Practice4\Practice3\bin\Debug\Practice3.exe
+C:\Users\Nastya\AlgorithmsAndDataStructure\Practice4\Practice3\bin\Debug\Practice3.pdb
+C:\Users\Nastya\AlgorithmsAndDataStructure\Practice4\Practice3\obj\Debug\Practice3.csprojAssemblyReference.cache
+C:\Users\Nastya\AlgorithmsAndDataStructure\Practice4\Practice3\obj\Debug\Practice3.csproj.CoreCompileInputs.cache
+C:\Users\Nastya\AlgorithmsAndDataStructure\Practice4\Practice3\obj\Debug\Practice3.exe
+C:\Users\Nastya\AlgorithmsAndDataStructure\Practice4\Practice3\obj\Debug\Practice3.pdb

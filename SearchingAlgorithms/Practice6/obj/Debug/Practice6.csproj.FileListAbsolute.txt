@@ -1,0 +1,7 @@
+C:\Users\Nastya\AlgorithmsAndDataStructure\Practice6\Practice6\bin\Debug\Practice6.exe.config
+C:\Users\Nastya\AlgorithmsAndDataStructure\Practice6\Practice6\bin\Debug\Practice6.exe
+C:\Users\Nastya\AlgorithmsAndDataStructure\Practice6\Practice6\bin\Debug\Practice6.pdb
+C:\Users\Nastya\AlgorithmsAndDataStructure\Practice6\Practice6\obj\Debug\Practice6.csprojAssemblyReference.cache
+C:\Users\Nastya\AlgorithmsAndDataStructure\Practice6\Practice6\obj\Debug\Practice6.csproj.CoreCompileInputs.cache
+C:\Users\Nastya\AlgorithmsAndDataStructure\Practice6\Practice6\obj\Debug\Practice6.exe
+C:\Users\Nastya\AlgorithmsAndDataStructure\Practice6\Practice6\obj\Debug\Practice6.pdb
